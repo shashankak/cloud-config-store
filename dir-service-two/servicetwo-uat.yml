@@ -1,0 +1,3 @@
+my:
+  greeting:
+    message: Hello you are in service TWO of UATs.
